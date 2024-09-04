@@ -1,0 +1,1 @@
+This is a cumulative project from Programming 3 that took half the semester. It is an app that allows the user to find the shortest path between two locations in UW-Madison (As defined in campus.dot) using Dijkstra's Algorithm. You can also search for the location furthest away from a specific location It uses JavaFX for the UI. We worked in pairs, so I was assigned the backend.
